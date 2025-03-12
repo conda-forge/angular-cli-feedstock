@@ -4,7 +4,7 @@
 
 [project]
 name = "angular-cli-feedstock"
-version = "3.46.1"
+version = "3.47.0"
 description = "Pixi configuration for conda-forge/angular-cli-feedstock"
 authors = ["@conda-forge/angular-cli"]
 channels = ["conda-forge"]
