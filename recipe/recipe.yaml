@@ -1,5 +1,5 @@
 context:
-  version: "21.1.4"
+  version: "21.1.5"
 
 package:
   name: angular-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@angular/cli/-/cli-${{ version }}.tgz
-  sha256: d21850263e97c18f96efd50048033e780c3a644123ff12f0375df14f59b4bfe1
+  sha256: 6be35fd7714a1e81d8f04e6272c0e744efaa7b3bc1690924711e26b4e6d757d7
 
 build:
   number: 0
