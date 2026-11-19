@@ -1,5 +1,5 @@
 context:
-  version: "22.2.7"
+  version: "22.3.0"
 
 package:
   name: angular-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@angular/cli/-/cli-${{ version }}.tgz
-  sha256: f77fef613d5afac2d68b5a0f80153655b58b07d6cc8c4f21f2682e5f57b9950b
+  sha256: cb7eb35f2aa5242e5e161c5a906eaf2f72dd78423d3dcff1b564ef8a23646336
 
 build:
   number: 0
